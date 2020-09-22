@@ -1,2 +1,4 @@
 PRODUCT = OTRS
 VERSION = 6.0.x git
+BUILDDATE = Sat Jul 20 11:24:58 CET 2020
+BUILDHOST = otrsbuild.otrs.com
